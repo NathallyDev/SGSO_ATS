@@ -1,33 +1,103 @@
-## Calculator
+# 🧮 Calculator  
 
-Desktop application for solving basic operations on a calculator.
+### Description  
 
-## Progresso
+This is a desktop application designed to perform basic calculator operations. The project is being developed and tested to ensure accurate functionality and ease of use.  
 
-- Start: Aug, 2024.
-- Update: Sep, 2024.
-- Status: Testing
+---
 
-##Technologies Used
+### 🛠️ Technologies Used  
 
-- Visual Studio
-- Python 3.12
+- **Development Environment**:  
+  - Visual Studio.  
+- **Programming Language**:  
+  - Python 3.12.  
 
-## Contributing
+---
 
-If you'd like to contribute to the project, feel free to:
+### 📈 Project Progress  
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes.
-4. Submit a pull request.
+- **Start Date**: August 2024.  
+- **Last Update**: September 2024.  
+- **Status**: Testing Phase.  
 
-## License
+---
 
-This project is licensed under the [MIT License](LICENSE).
+### 🚀 Installation  
 
-## Contact
+1. **Clone the repository**:
+   
+   ```bash
+   git clone https://github.com/YourUsername/calculator.git
+   ```
 
-For any questions or feedback, please contact [nathallylym@gmail.com](mailto:nathallylym@gmail.com).
+2. Open the project in Visual Studio:
+   
+```bash
+cd calculator
+```
 
-Happy Playing!
+3. Set up Python:
+   
+- Make sure Python 3.12 or a compatible version is installed.
+- Install any required libraries using:
+
+```bash
+pip install -r requirements.txt
+```
+---
+
+## 🖥️ Usage
+
+- Launch the application by running the main script:
+
+```bash
+python calculator.py
+```
+
+- Use the interface to perform basic operations like addition, subtraction, multiplication, and division.
+
+---
+
+## 📂 Project Structure
+
+```bash
+/
+|-- calculator.py        # Main Python script
+|-- requirements.txt     # Dependencies
+|-- README.md            # Project documentation
+|-- LICENSE              # License file
+```
+
+---
+
+## 💡 Contributing
+
+If you'd like to contribute to the project:
+
+1. Fork this repository.
+2. Create a branch for your feature or bug fix:
+
+```bash
+git checkout -b my-feature
+```
+
+3. Commit your changes:
+
+```bash
+git commit -m 'Added my feature'
+```
+
+4. Push to your branch:
+
+```bash
+git push origin my-feature
+```
+
+5. Open a Pull Request.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
